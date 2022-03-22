@@ -11,7 +11,7 @@ Korzystając z api https://nationalize.io/ i https://genderize.io/ należy stwor
 3 - Aplikacja bedzie odwzorowaniem aplikacji z poniżeszego linku:
 
     https://www.figma.com/file/LioG7QnwycNt3OsmZE5BbR/Zadanie-rekturacyjne?node-id=0%3A1
-4 - Całość projektu nalezy wykonać z wykprzystaniem React + CSS
+4 - Całość projektu nalezy wykonać z wykorzystaniem React + CSS
 
 5 - Podział na komponenty oraz użyte bibliteki jest dowolny
 
