@@ -2,7 +2,7 @@
 
 
 
-Korzystając z api https://nationalize.io/ i https://genderize.io/ należy stworzyć aplikację która:
+Korzystając z api https://nationalize.io/ i https://genderize.io/ należy stworzyć aplikację która: 
 1 - po wpisaniu imienia (bez polskich znaków) sprawdzi kraj pochodzenie oraz płeć. 
 2 - Sprawdzone już imiona będą zapisane w lokal storage i bedą do podglądu w postaci listy (bez dubli)
 3 - Aplikacja bedzie odwzorowaniem aplikacji z poniżeszego linku:
