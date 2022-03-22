@@ -14,4 +14,5 @@ Korzystając z api https://nationalize.io/ i https://genderize.io/ należy stwor
 Po zakonczeniu zadania, projekt nalezy wrzucić na nowy brunch "develop".
 Czas na ukonczenie zadnia to 48h.
 
+
 Powodzenia!
